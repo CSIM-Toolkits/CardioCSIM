@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gustavo/Slicer/Slicer/Slicer-SuperBuild-Debug/Slicer-build/Base/CLI/SEMCommandLineLibraryWrapper.cxx
+itkFactoryRegistration.h
+-
+
+/home/gustavo/Slicer/Slicer/Slicer-SuperBuild-Debug/Slicer-build/Libs/ITKFactoryRegistration/itkFactoryRegistrationConfigure.h
+
+/home/gustavo/Slicer/Slicer/Slicer-r24735/Libs/ITKFactoryRegistration/itkFactoryRegistration.h
+itkFactoryRegistrationConfigure.h
+/home/gustavo/Slicer/Slicer/Slicer-r24735/Libs/ITKFactoryRegistration/itkFactoryRegistrationConfigure.h
+

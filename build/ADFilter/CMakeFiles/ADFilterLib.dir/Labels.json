@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/ADFilter/ADFilterCLP.h"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/ADFilter/ADFilter.cxx"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/ADFilter/ADFilterCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ADFilter" ],
+		"name" : "ADFilterLib"
+	}
+}

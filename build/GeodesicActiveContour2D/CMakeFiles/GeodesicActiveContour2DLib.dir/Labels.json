@@ -1,0 +1,31 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/GeodesicActiveContour2D/GeodesicActiveContour2DCLP.h"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/GeodesicActiveContour2D/GeodesicActiveContour2D.cxx"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/GeodesicActiveContour2D/segment.cpp"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/GeodesicActiveContour2D/convertvolume.cpp"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/GeodesicActiveContour2D/GeodesicActiveContour2DCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "GeodesicActiveContour2D" ],
+		"name" : "GeodesicActiveContour2DLib"
+	}
+}

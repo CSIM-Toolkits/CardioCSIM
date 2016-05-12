@@ -1,0 +1,16 @@
+/home/gustavo/CardioCSIM/build/ADFilter/CMakeFiles/ADFilterLib.dir
+/home/gustavo/CardioCSIM/build/HoughTransform/CMakeFiles/HoughTransform.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/Nightly.dir
+/home/gustavo/CardioCSIM/build/GeodesicActiveContour2D/CMakeFiles/GeodesicActiveContour2DLib.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/ConfigureAdditionalLauncherSettings.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/NightlyUpload.dir
+/home/gustavo/CardioCSIM/build/ADFilter/CMakeFiles/ADFilter.dir
+/home/gustavo/CardioCSIM/build/CardioSegmentation/CMakeFiles/CardioSegmentation.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/ExperimentalUpload.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/packageupload.dir
+/home/gustavo/CardioCSIM/build/Filtering/CMakeFiles/AADImageFilter.dir
+/home/gustavo/CardioCSIM/build/Filtering/CMakeFiles/AADImageFilterLib.dir
+/home/gustavo/CardioCSIM/build/CMakeFiles/Experimental.dir
+/home/gustavo/CardioCSIM/build/HoughTransform/CMakeFiles/HoughTransformLib.dir
+/home/gustavo/CardioCSIM/build/GeodesicActiveContour2D/CMakeFiles/GeodesicActiveContour2D.dir
+/home/gustavo/CardioCSIM/build/CardioSegmentation/CMakeFiles/CardioSegmentationLib.dir

@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/CardioSegmentation/CardioSegmentationCLP.h"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/CardioSegmentation/CardioSegmentation.cxx"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/CardioSegmentation/CardioSegmentationCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CardioSegmentation" ],
+		"name" : "CardioSegmentationLib"
+	}
+}

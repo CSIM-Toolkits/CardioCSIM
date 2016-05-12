@@ -1,0 +1,27 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/HoughTransform/HoughTransformCLP.h"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/HoughTransform/HoughTransform.cxx"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/HoughTransform/extract.cpp"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/HoughTransform/HoughTransformCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "HoughTransform" ],
+		"name" : "HoughTransformLib"
+	}
+}

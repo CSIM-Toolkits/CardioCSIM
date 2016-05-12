@@ -1,0 +1,15 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/Slicer/Slicer/Slicer-SuperBuild-Debug/Slicer-build/Base/CLI/SEMCommandLineLibraryWrapper.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ADFilter" ],
+		"name" : "ADFilter"
+	}
+}

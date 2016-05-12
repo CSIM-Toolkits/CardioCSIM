@@ -1,0 +1,6 @@
+# Target labels
+ CardioSegmentation
+# Source files and their labels
+/home/gustavo/CardioCSIM/build/CardioSegmentation/CardioSegmentationCLP.h
+/home/gustavo/CardioCSIM/CardioSegmentation/CardioSegmentation.cxx
+/home/gustavo/CardioCSIM/build/CardioSegmentation/CardioSegmentationCLP.h.rule

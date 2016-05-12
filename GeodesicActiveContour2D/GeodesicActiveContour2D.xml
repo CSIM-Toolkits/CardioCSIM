@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable>
+  <category>Examples</category>
+  <title>GeodesicActiveContour2D</title>
+  <description><![CDATA[This is a CLI module that can be bundled in an extension]]></description>
+  <version>0.0.1</version>
+  <documentation-url>http://www.example.com/Slicer/Modules/GeodesicActiveContour2D</documentation-url>
+  <license>Slicer</license>
+  <contributor>FirstName LastName (Institution), FirstName LastName (Institution)</contributor>
+  <acknowledgements>This work was partially funded by NIH grant NXNNXXNNNNNN-NNXN</acknowledgements>
+  <parameters>
+    <label>IO</label>
+    <description><![CDATA[Input/output parameters]]></description>
+    <image>
+      <name>inputVolume</name>
+      <label>Input Volume</label>
+      <channel>input</channel>
+      <index>0</index>
+      <description><![CDATA[Input volume]]></description>
+    </image>
+    <image>
+      <name>outputVolume</name>
+      <label>Output Volume</label>
+      <channel>output</channel>
+      <index>1</index>
+      <description><![CDATA[Output Volume]]></description>
+    </image>
+    <double>
+      <name>sigma_min</name>
+      <longflag>sigma_min</longflag>
+      <flag>s</flag>
+      <label>SigmaMin</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>0.0</default>
+    </double>
+    <double>
+      <name>sigma_max</name>
+      <longflag>sigma_max</longflag>
+      <flag>z</flag>
+      <label>SigmaMax</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>255.0</default>
+    </double>
+    <double>
+      <name>propagation</name>
+      <longflag>propagation</longflag>
+      <flag>p</flag>
+      <label>PropagationScaling</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>6.0</default>
+    </double>
+    <double>
+      <name>curvature</name>
+      <longflag>curvature</longflag>
+      <flag>c</flag>
+      <label>CurvatureScaling</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>1.0</default>
+    </double>
+    <double>
+      <name>advection</name>
+      <longflag>advection</longflag>
+      <flag>a</flag>
+      <label>AdvectionScaling</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>1.0</default>
+    </double>
+    <double>
+      <name>rms</name>
+      <longflag>rms</longflag>
+      <flag>r</flag>
+      <label>MaximumRMS</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>0.02</default>
+    </double>
+    <integer>
+      <name>iterations</name>
+      <longflag>iterations</longflag>
+      <flag>i</flag>
+      <label>Iterations</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>800</default>
+    </integer>
+    <double>
+      <name>alpha</name>
+      <longflag>alpha</longflag>
+      <flag>o</flag>
+      <label>Alpha</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>-0.5</default>
+    </double>
+    <double>
+      <name>beta</name>
+      <longflag>beta</longflag>
+      <flag>b</flag>
+      <label>Beta</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>8.0</default>
+    </double>
+    <double>
+      <name>distance</name>
+      <longflag>distance</longflag>
+      <flag>d</flag>
+      <label>InitialDistance</label>
+      <description><![CDATA[A double value (in units of mm) passed to the algorithm]]></description>
+      <default>1.0</default>
+    </double>
+  </parameters>
+</executable>

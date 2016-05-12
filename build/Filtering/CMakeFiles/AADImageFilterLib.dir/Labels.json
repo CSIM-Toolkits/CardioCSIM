@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/Filtering/AADImageFilterCLP.h"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/Filtering/AADImageFilter.cxx"
+		},
+		
+		{
+			"file" : "/home/gustavo/CardioCSIM/build/Filtering/AADImageFilterCLP.h.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "AADImageFilter" ],
+		"name" : "AADImageFilterLib"
+	}
+}
